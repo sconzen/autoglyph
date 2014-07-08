@@ -12,6 +12,10 @@ Green == Using a recommended glyph, good for you.
 Yellow == Using a glyph that isn't recommended, totally up to you.
 Red == Empty glyph slot... what's the matter with you?
 
+![Auto Glyph](http://s.cdn.wowinterface.com/preview/pvw62790.jpg)
+
+[wowinterface](http://www.wowinterface.com/downloads/info22908-AutoGlyph.html)
+
 ##Upcoming Features:
 
 Auto swap glyphs. Apply all recommended glyphs with one click.
