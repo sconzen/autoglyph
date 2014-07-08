@@ -1,0 +1,9 @@
+## Interface: 50400
+## Title: Auto Glyph
+## Author: Helwyr - Jaedenar US
+## Version: 0.3
+## Notes: Recommended Glyph Suggestions
+## URL: sconzen.github.io
+glyphs.lua
+soo.lua
+main.lua
