@@ -9,8 +9,11 @@ Lists off glyphs you "should" be using, as recommended by Noxxic and Icy-Veins.
 use /ag or /autoglyph to bring up the auto glyph window.
 
 Green == Using a recommended glyph, good for you.
+
 Yellow == Using a glyph that isn't recommended, totally up to you.
+
 Red == Empty glyph slot... what's the matter with you?
+
 
 ![Auto Glyph](http://s.cdn.wowinterface.com/preview/pvw62790.jpg)
 
